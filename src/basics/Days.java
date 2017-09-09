@@ -11,16 +11,16 @@ public class Days {
 				System.out.println("TOday is mondays");
 				break;
 			case "Tuesday": 
-				System.out.println("TOday is mondays");
+				System.out.println("TOday is tuesday");
 				break;
 			case "Wednesday": 
-				System.out.println("TOday is mondays");
+				System.out.println("TOday is Wednesday");
 				break;
 			case "Thrusday": 
-				System.out.println("TOday is mondays");
+				System.out.println("TOday is Thrusday");
 				break;
 			case "Friday": 
-				System.out.println("TOday is mondays");
+				System.out.println("TOday is Friday");
 				break;
 		}
 
